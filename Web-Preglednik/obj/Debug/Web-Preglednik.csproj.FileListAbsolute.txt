@@ -1,0 +1,11 @@
+C:\Users\Ucenik\Documents\GabrielCondricNIOP\Web-Preglednik\bin\Debug\Web-Preglednik.exe.config
+C:\Users\Ucenik\Documents\GabrielCondricNIOP\Web-Preglednik\bin\Debug\Web-Preglednik.exe
+C:\Users\Ucenik\Documents\GabrielCondricNIOP\Web-Preglednik\bin\Debug\Web-Preglednik.pdb
+C:\Users\Ucenik\Documents\GabrielCondricNIOP\Web-Preglednik\obj\Debug\Web-Preglednik.csproj.AssemblyReference.cache
+C:\Users\Ucenik\Documents\GabrielCondricNIOP\Web-Preglednik\obj\Debug\Web-Preglednik.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ucenik\Documents\GabrielCondricNIOP\Web-Preglednik\obj\Debug\Web_Preglednik.Form1.resources
+C:\Users\Ucenik\Documents\GabrielCondricNIOP\Web-Preglednik\obj\Debug\Web_Preglednik.Properties.Resources.resources
+C:\Users\Ucenik\Documents\GabrielCondricNIOP\Web-Preglednik\obj\Debug\Web-Preglednik.csproj.GenerateResource.cache
+C:\Users\Ucenik\Documents\GabrielCondricNIOP\Web-Preglednik\obj\Debug\Web-Preglednik.csproj.CoreCompileInputs.cache
+C:\Users\Ucenik\Documents\GabrielCondricNIOP\Web-Preglednik\obj\Debug\Web-Preglednik.exe
+C:\Users\Ucenik\Documents\GabrielCondricNIOP\Web-Preglednik\obj\Debug\Web-Preglednik.pdb
